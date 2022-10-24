@@ -71,7 +71,7 @@
     "@babel/preset-env": "^7.14.8",
     "@lets/wait": "^2.0.2",
     "@rollup/plugin-babel": "^5.3.0",
-    "@rollup/plugin-json": "^4.1.0",
+    "@rollup/plugin-json": "^5.0.1",
     "@rollup/plugin-node-resolve": "^13.0.4",
     "eslint-plugin-log": "^1.2.6",
     "form-data": "^4.0.0",
